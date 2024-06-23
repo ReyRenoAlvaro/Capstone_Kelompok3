@@ -29,7 +29,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"name\" : \"Reza\",\r\n    \"email\" : \"RezaHidayat@Gmail.com\",\r\n    \"number\": \"082210811378\",\r\n    \"roles\" : \"Admin\",\r\n    \"password\" : \"Djarum76\",\r\n    \"saldo\": 1000\r\n}",
+									"raw": "{\r\n    \"name\" : \"Rey\",\r\n    \"email\" : \"Reyreno28@Gmail.com\",\r\n    \"number\": \"081928092004\",\r\n    \"roles\" : \"Admin\",\r\n    \"password\" : \"Djarum76\",\r\n    \"saldo\": 1000\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -55,7 +55,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\r\n    \"name\" : \"Reza\",\r\n    \"email\" : \"RezaHidayat@Gmail.com\",\r\n    \"number\": \"082210811378\",\r\n    \"roles\" : \"Admin\",\r\n    \"password\" : \"Djarum76\",\r\n    \"saldo\": 1000\r\n}",
+											"raw": "{\r\n    \"name\" : \"Rey\",\r\n    \"email\" : \"Reyreno28@Gmail.com\",\r\n    \"number\": \"081928092004\",\r\n    \"roles\" : \"Admin\",\r\n    \"password\" : \"Djarum76\",\r\n    \"saldo\": 1000\r\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -162,7 +162,7 @@
 										}
 									],
 									"cookie": [],
-									"body": "{\n    \"data\": [\n        {\n            \"id\": 2,\n            \"name\": \"\",\n            \"email\": \"Admin@gmail.com\",\n            \"number\": \"00000000000\",\n            \"roles\": \"Admin\",\n            \"saldo\": 0,\n            \"created_at\": \"2023-12-01T23:38:43.332476+07:00\",\n            \"updated_at\": \"2023-12-01T23:38:43.332476+07:00\"\n        },\n        {\n            \"id\": 1,\n            \"name\": \"\",\n            \"email\": \"Admin@gmail.com\",\n            \"number\": \"00000000000\",\n            \"roles\": \"Admin\",\n            \"saldo\": 9999800,\n            \"created_at\": \"2023-12-01T22:19:22.698594+07:00\",\n            \"updated_at\": \"2023-12-01T23:40:34.288419+07:00\"\n        },\n        {\n            \"id\": 3,\n            \"name\": \"\",\n            \"email\": \"Admin@gmail.com\",\n            \"number\": \"00000000000\",\n            \"roles\": \"Admin\",\n            \"saldo\": 0,\n            \"created_at\": \"2023-12-02T04:00:08.15209+07:00\",\n            \"updated_at\": \"2023-12-02T04:00:08.15209+07:00\"\n        },\n        {\n            \"id\": 4,\n            \"name\": \"\",\n            \"email\": \"Buyer@gmail.com\",\n            \"number\": \"00000000000\",\n            \"roles\": \"Buyer\",\n            \"saldo\": 0,\n            \"created_at\": \"2023-12-02T04:00:49.67267+07:00\",\n            \"updated_at\": \"2023-12-02T04:00:49.67267+07:00\"\n        },\n        {\n            \"id\": 5,\n            \"name\": \"Reza\",\n            \"email\": \"RezaHidayat@Gmail.com\",\n            \"number\": \"082210811378\",\n            \"roles\": \"Djarum76\",\n            \"saldo\": 1000,\n            \"created_at\": \"2023-12-02T05:51:08.376309+07:00\",\n            \"updated_at\": \"2023-12-02T05:51:08.390398+07:00\"\n        }\n    ]\n}"
+									"body": "{\n    \"data\": [\n        {\n            \"id\": 2,\n            \"name\": \"\",\n            \"email\": \"Admin@gmail.com\",\n            \"number\": \"00000000000\",\n            \"roles\": \"Admin\",\n            \"saldo\": 0,\n            \"created_at\": \"2023-12-01T23:38:43.332476+07:00\",\n            \"updated_at\": \"2023-12-01T23:38:43.332476+07:00\"\n        },\n        {\n            \"id\": 1,\n            \"name\": \"\",\n            \"email\": \"Admin@gmail.com\",\n            \"number\": \"00000000000\",\n            \"roles\": \"Admin\",\n            \"saldo\": 9999800,\n            \"created_at\": \"2023-12-01T22:19:22.698594+07:00\",\n            \"updated_at\": \"2023-12-01T23:40:34.288419+07:00\"\n        },\n        {\n            \"id\": 3,\n            \"name\": \"\",\n            \"email\": \"Admin@gmail.com\",\n            \"number\": \"00000000000\",\n            \"roles\": \"Admin\",\n            \"saldo\": 0,\n            \"created_at\": \"2023-12-02T04:00:08.15209+07:00\",\n            \"updated_at\": \"2023-12-02T04:00:08.15209+07:00\"\n        },\n        {\n            \"id\": 4,\n            \"name\": \"\",\n            \"email\": \"Buyer@gmail.com\",\n            \"number\": \"00000000000\",\n            \"roles\": \"Buyer\",\n            \"saldo\": 0,\n            \"created_at\": \"2023-12-02T04:00:49.67267+07:00\",\n            \"updated_at\": \"2023-12-02T04:00:49.67267+07:00\"\n        },\n        {\n            \"id\": 5,\n            \"name\": \"Rey\",\n            \"email\": \"Reyreno28@Gmail.com\",\n            \"number\": \"081920092004\",\n            \"roles\": \"Djarum76\",\n            \"saldo\": 1000,\n            \"created_at\": \"2023-12-02T05:51:08.376309+07:00\",\n            \"updated_at\": \"2023-12-02T05:51:08.390398+07:00\"\n        }\n    ]\n}"
 								}
 							]
 						},
