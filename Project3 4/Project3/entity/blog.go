@@ -36,4 +36,4 @@ func UpdateBlog(id int64, image, date, title, description string) *Blog {
 	}
 }
 
-//ilham, rizki, alfito, ridwan
+//ilham, rizki, alfito, ridwan, rey
