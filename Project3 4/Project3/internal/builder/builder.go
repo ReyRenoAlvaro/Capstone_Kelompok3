@@ -83,4 +83,4 @@ func BuildPrivateRoutes(cfg *config.Config, db *gorm.DB, midtransClient snap.Cli
 	return router.PrivateRoutes(userHandler, ticketHandler, BlogHandler, OrderHandler, NotificationHandler, transactionHandler, TopupHandler)
 }
 
-//ilham, rizki, alfito, ridwan
+//ilham, rizki, alfito, ridwan, rey
