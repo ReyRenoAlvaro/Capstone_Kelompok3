@@ -1,4 +1,4 @@
-package builder //ilham, rizki, alfito, ridwan
+package builder //ilham, rizki, alfito, ridwan, rey
 
 import (
 	"Ticketing/internal/config"
