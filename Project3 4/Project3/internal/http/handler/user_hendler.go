@@ -34,7 +34,7 @@ func (h *UserHandler) GetAllUser(ctx echo.Context) error {
 	})
 }
 
-// func untuk melakukan createUser update versi reza v5 halo
+// func untuk melakukan createUser update
 func (h *UserHandler) CreateUser(ctx echo.Context) error {
 	var input struct {
 		Name     string `json:"name" validate:"required"`
