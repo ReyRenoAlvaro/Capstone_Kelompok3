@@ -22,4 +22,4 @@ type MidtransRequest struct {
 	Currency          string        `json:"currency"`
 }
 
-//ilham, rizki, alfito, ridwan
+//ilham, rizki, alfito, ridwan, rey
